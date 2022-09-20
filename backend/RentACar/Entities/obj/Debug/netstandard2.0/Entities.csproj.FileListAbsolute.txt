@@ -1,0 +1,37 @@
+D:\Visual Studio\Project\RentACar\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Visual Studio\Project\RentACar\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Visual Studio\Project\RentACar\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Visual Studio\Project\RentACar\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Visual Studio\Project\RentACar\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Visual Studio\Project\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Entities\obj\Debug\netstandard2.0\Entities.pdb

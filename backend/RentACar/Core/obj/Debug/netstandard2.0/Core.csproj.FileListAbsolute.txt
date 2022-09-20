@@ -1,0 +1,28 @@
+D:\Visual Studio\Project\RentACar\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Visual Studio\Project\RentACar\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Visual Studio\Project\RentACar\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.pdb
+D:\Visual Studio\Project\RentACar\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\SoftwareDeveloper\Documents\GitHub\RentACarBackEnd\RentACar\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\omerbakiciol\Desktop\RentACarBackEnd-master\RentACar\Core\obj\Debug\netstandard2.0\Core.pdb
