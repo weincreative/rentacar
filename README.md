@@ -42,5 +42,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-* <a href="https://github.com/weincreative/rentacar/backend/master/RentACar/RentACarDb.sql"> Frontend SQL DB script</a> 
-* <a href="https://github.com/weincreative/rentacar/backend/master/RentACar/RentACarDb.sql"> Backend SQL DB script</a> 
+* <a href="https://github.com/weincreative/rentacar/backend/RentACarDb_backend.sql"> Backend SQL DB script</a>
+* <a href="https://github.com/weincreative/rentacar/frontend/RentACarDb_frontend.sql"> Frontend SQL DB script</a> 
